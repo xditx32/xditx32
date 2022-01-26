@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Aditya
+- 👋 Hi, I’m Aditya
+- 📫 Reach me via email xditx32@gmail.com
 
 <!--
 **xditx/xditx32* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
